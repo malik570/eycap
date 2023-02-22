@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
