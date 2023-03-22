@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
