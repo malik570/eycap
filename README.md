@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
