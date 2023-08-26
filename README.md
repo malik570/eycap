@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Fix OBB xywh-angle concatenation bug (#7404)
