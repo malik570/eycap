@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
