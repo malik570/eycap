@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Update CITATION.cff with cffinit corrections (#8658)
