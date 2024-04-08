@@ -1,1 +1,1 @@
-fix print val map
+Fixed RTDETR GFLOPs bug (#7309)
